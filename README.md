@@ -11,25 +11,23 @@ After cloning this repository for your plugin:
 
 ## Quick Start
 
-### First
+1. Follow https://github.com/TACC/Core-CMS/wiki/Core-CMS-Plugin-Usage-Quick-Start.
 
-Follow https://github.com/TACC/Core-CMS/wiki/Core-CMS-Plugin-Usage-Quick-Start.
+> The next steps are sample steps that should be replaced with plugin-specific steps, if any.
 
-### Next
-
-1. Any step that is specific to the plugin, such as the steps after this.
+2. Any step that is specific to the plugin, such as the steps after this.
 
     ```
     # provide minimal example code that may help the reader
     ```
 
-2. Add a URLconf in your Django project's `urls.py` like this:
+3. Add a URLconf in your Django project's `urls.py` like this:
 
     ```
         url(r'^sysmon/', include('\_\_PLUGIN_APP_NAME\_\_.urls')),
     ```
 
-3. Add `__PLUGIN_NAME_SOME_PROP__` property and value to your Django project's settings:
+4. Add `__PLUGIN_NAME_SOME_PROP__` property and value to your Django project's settings:
 
     ```
     __PLUGIN_NAME_SOME_PROP__ = 'specific_value'
