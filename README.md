@@ -6,14 +6,15 @@
 ## For Plugin Developer
 
 After cloning this repository for your plugin:
-1. Follow https://github.com/TACC/Core-CMS/wiki/Core-CMS-Plugin-Dev-Quick-Start.
+1. Follow https://github.com/tacc-wbomar/Core-CMS-Plugin/wiki/Core-CMS-Plugin-Development-Quick-Start.
 2. Remove this section from your repository's `README.md`.
+
 
 ## Quick Start
 
 ### First
 
-Follow https://github.com/TACC/Core-CMS/wiki/Core-CMS-Plugin-Usage-Quick-Start.
+Follow https://github.com/tacc-wbomar/Core-CMS-Plugin/wiki/Core-CMS-Plugin-Usage-Quick-Start.
 
 ### Next
 
