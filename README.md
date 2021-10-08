@@ -1,7 +1,7 @@
 ## Texas Advanced Computing Center
 # Django CMS ______ Plugin
 
-\_\_PLUGIN_NAME\_\_ does something.
+\_\_plugin_name\_\_ does something.
 
 ## For Plugin Developer
 
@@ -26,13 +26,13 @@ After cloning this repository for your plugin:
 3. Add a URLconf in your Django project's `urls.py` like this:
 
     ```
-        url(r'^sysmon/', include('\_\_PLUGIN_APP_NAME\_\_.urls')),
+        url(r'^sysmon/', include('\_\_plugin_name\_\_.urls')),
     ```
 
-4. Add `__PLUGIN_NAME_SOME_PROP__` property and value to your Django project's settings:
+4. Add `__plugin_name_some_prop__` property and value to your Django project's settings:
 
     ```
-    __PLUGIN_NAME_SOME_PROP__ = 'specific_value'
+    __plugin_name_some_prop__ = 'specific_value'
     ```
 
 5. Visit [http://your.project.url.host/some_plugin_url_path/](http://127.0.0.1:8000/ "The URL for your environment may be different than this.").
