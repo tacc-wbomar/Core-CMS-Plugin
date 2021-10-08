@@ -3,6 +3,12 @@
 
 \_\_PLUGIN_NAME\_\_ does something.
 
+## For Plugin Developer
+
+After cloning this repository for your plugin:
+1. Follow https://github.com/TACC/Core-CMS/wiki/Core-CMS-Plugin-Dev-Quick-Start.
+2. Remove this section from your repository's `README.md`.
+
 ## Quick Start
 
 ### First
