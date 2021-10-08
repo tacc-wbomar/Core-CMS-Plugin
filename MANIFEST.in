@@ -1,0 +1,5 @@
+include LICENSE
+include README.md
+recursive-include __PLUGIN_DIR__/static *
+recursive-include __PLUGIN_DIR__/templates *
+recursive-include __PLUGIN_DIR__/migrations *
