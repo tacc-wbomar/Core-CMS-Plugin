@@ -1,7 +1,11 @@
 ## Texas Advanced Computing Center
-# Django CMS ______ Plugin
+# Django CMS Plugin (for TACC/Core-CMS): "Plugin Name"
 
-\_\_plugin_name\_\_ does something.
+This plugin [does something].
+
+- __`__plugin_name__`__: `taccsite_example`
+- __`__PluginName__`__: `TaccsiteExample`
+- __"Plugin Name"__: "Example"
 
 ## For Plugin Developer
 

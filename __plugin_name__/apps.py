@@ -1,4 +1,4 @@
 from django.apps import AppConfig
 
 class __PluginName__Config(AppConfig):
-    name = '__plugin_name__'
+    name = 'Plugin Name'

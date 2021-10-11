@@ -12,10 +12,10 @@ setup(
     version='0.1',
     packages=find_packages(),
     include_package_data=True,
-    license='BSD License', # example license
-    description='__PLUGIN_DESC__',
+    license='BSD License',
+    description='A DjangoCMS plugin (for TACC Core CMS) to ______.',
     long_description=README,
-    url='https://github.com/TACC/Core-CMS-Plugin-__Plugin_Name__/',
+    url='https://github.com/TACC/__Repo_Name__/',
     author='Wesley Bomar',
     author_email='wbomar@tacc.utexas.edu',
     # SEE: https://pypi.org/classifiers/
