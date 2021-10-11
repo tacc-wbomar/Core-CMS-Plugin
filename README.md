@@ -30,7 +30,7 @@ After cloning this repository for your plugin:
 3. Add a URLconf in your Django project's `urls.py` like this:
 
     ```
-        url(r'^sysmon/', include('\_\_plugin_name\_\_.urls')),
+        url(r'^sysmon/', include('__plugin_name__.urls')),
     ```
 
 4. Add `__plugin_name_some_prop__` property and value to your Django project's settings:
