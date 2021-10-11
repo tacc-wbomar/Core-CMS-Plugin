@@ -40,3 +40,17 @@ After cloning this repository for your plugin:
     ```
 
 5. Visit [http://your.project.url.host/some_plugin_url_path/](http://127.0.0.1:8000/ "The URL for your environment may be different than this.").
+
+## Usage
+
+> This section is sample usage steps that should be replaced with plugin-specific steps, or be removed.
+
+1. Add instance of plugin to a page.
+1. Configure the plugin instance.
+1. See plugin render content that matches configuration.
+
+## Features
+
+> This section should describe the feature of the plugin or be removed.
+
+…
