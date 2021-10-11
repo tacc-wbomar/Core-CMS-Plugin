@@ -1,5 +1,5 @@
 ## Texas Advanced Computing Center
-# Django CMS Plugin (for TACC/Core-CMS): "Plugin Name"
+# Django CMS Plugin: "Plugin Name"
 
 This plugin [does something].
 
