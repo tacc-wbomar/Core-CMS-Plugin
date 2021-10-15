@@ -31,16 +31,16 @@ After cloning this repository for your plugin:
 3. Add a URLconf in your Django project's `urls.py` like this:
 
     ```
-        url(r'^sysmon/', include('__plugin_name__.urls')),
+        url(r'^sysmon/', include('__package_name__.urls')),
     ```
 
-4. Add `__plugin_name_some_prop__` property and value to your Django project's settings:
+4. Add `__PLUGIN_NAME_SOME_PROP__` property and value to your Django project's settings:
 
     ```
-    __plugin_name_some_prop__ = 'specific_value'
+    __PLUGIN_NAME_SOME_PROP__ = 'specific_value'
     ```
 
-5. Visit [http://your.project.url.host/some_plugin_url_path/](http://127.0.0.1:8000/ "The URL for your environment may be different than this.").
+5. Visit [http://your.project.url.host/some-plugin-url-path/](http://127.0.0.1:8000/ "The URL for your environment may be different than this.").
 
 ## Usage
 
