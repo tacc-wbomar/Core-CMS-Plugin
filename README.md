@@ -1,12 +1,12 @@
 ## Texas Advanced Computing Center
-# Django CMS Plugin: "Plugin Name"
+# Django CMS Plugin: "The Example"
 
 This plugin [does something].
 
-- __`__dist-name__`__: `taccsite_example`
-- __`__package_name__`__: `taccsite_example`
-- __`__ClassName__`__: `TaccsiteExample`
-- __"Plugin Name"__: "Example"
+- __`__dist-name__`__: `djangocms-tacc-the-example`
+- __`__package_name__`__: `djangocms_tacc_the_example`
+- __`__ClassName__`__: `TaccsiteTheExample`
+- __"Plugin Name"__: "The Example"
 
 ## For Plugin Developer
 
