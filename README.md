@@ -3,8 +3,9 @@
 
 This plugin [does something].
 
-- __`__plugin_name__`__: `taccsite_example`
-- __`__PluginName__`__: `TaccsiteExample`
+- __`__dist-name__`__: `taccsite_example`
+- __`__package_name__`__: `taccsite_example`
+- __`__ClassName__`__: `TaccsiteExample`
 - __"Plugin Name"__: "Example"
 
 ## For Plugin Developer
