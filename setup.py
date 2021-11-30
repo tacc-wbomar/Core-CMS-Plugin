@@ -9,7 +9,7 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 setup(
     name='__dist-name__',
-    version='0.1',
+    version='0.1.0',
     packages=find_packages(),
     include_package_data=True,
     license='BSD License',
@@ -18,6 +18,11 @@ setup(
     url='https://github.com/TACC/__Repo_Name__/',
     author='Wesley Bomar',
     author_email='wbomar@tacc.utexas.edu',
+    # SEE: https://packaging.python.org/discussions/install-requires-vs-requirements/
+    install_requires=[
+        'Django>=2.2.16',
+        'django-cms>=3.7.4',
+    ],
     # SEE: https://pypi.org/classifiers/
     classifiers=[
         'Environment :: Web Environment',
