@@ -24,19 +24,19 @@ After cloning this repository for your plugin:
 
 2. Any step that is specific to the plugin, such as the steps after this.
 
-    ```
+    ```python
     # provide minimal example code that may help the reader
     ```
 
 3. Add a URLconf in your Django project's `urls.py` like this:
 
-    ```
+    ```python
         url(r'^sysmon/', include('__package_name__.urls')),
     ```
 
 4. Add `__PLUGIN_NAME_SOME_PROP__` property and value to your Django project's settings:
 
-    ```
+    ```python
     __PLUGIN_NAME_SOME_PROP__ = 'specific_value'
     ```
 
