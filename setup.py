@@ -16,8 +16,8 @@ setup(
     description='A DjangoCMS plugin (for TACC Core CMS) to ______.',
     long_description=README,
     url='https://github.com/TACC/__Repo_Name__/',
-    author='Your Name',
-    author_email='yourusername@tacc.utexas.edu',
+    author='TACC ACI WMA',
+    author_email='wma-portals@gmail.com',
     # SEE: https://packaging.python.org/discussions/install-requires-vs-requirements/
     install_requires=[
         'Django>=2.2.16',
