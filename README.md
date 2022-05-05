@@ -22,6 +22,12 @@ After cloning this repository for your app:
 
 > The next steps are sample steps that should be replaced with app-specific steps, if any.
 
+Website Example:
+
+2. Follow https://github.com/TACC/Core-CMS/blob/main/README.md.
+
+Plugin Example:
+
 2. Any step that is specific to the app, such as the steps after this.
 
     ```python
