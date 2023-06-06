@@ -10,7 +10,7 @@ This app [provides something].
 
 ## For App Developer
 
-After cloning this repository for your app:
+After using this repository template for your app:
 
 1. Follow https://github.com/wesleyboar/Core-CMS-App/wiki/Core-CMS-App-Development-Quick-Start.
 2. Remove this section from your repository's `README.md`.
