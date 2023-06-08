@@ -20,8 +20,8 @@ setup(
     author_email='wma-portals@gmail.com',
     # SEE: https://packaging.python.org/discussions/install-requires-vs-requirements/
     install_requires=[
-        'Django>=2.2.16',
-        'django-cms>=3.7.4',
+        'Django>=3.2',
+        'django-cms>=3.7.4,<4',
     ],
     # SEE: https://pypi.org/classifiers/
     classifiers=[
