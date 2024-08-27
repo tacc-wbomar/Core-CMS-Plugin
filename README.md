@@ -8,19 +8,23 @@ This app [provides something].
 - __`__ClassName__`__: `TheExample`
 - __"App Name"__: "The Example"
 
-## For App Developer
 
-After using this repository template for your app:
-
-1. Follow [(wiki) Development Quick Start](https://github.com/TACC/Core-CMS-App/wiki/Development-Quick-Start).
-2. Remove this section from your repository's `README.md`.
+> [!IMPORTANT]
+> After using this repository template for your app:
+>
+> 1. Follow [(wiki) Development Quick Start](https://github.com/TACC/Core-CMS-App/wiki/Development-Quick-Start).
+> 2. Remove this notice.
 
 
 ## Quick Start
 
 1. Follow [(wiki) Usage Quick Start](https://github.com/TACC/Core-CMS-App/wiki/Usage-Quick-Start).
 
-> All the step 2's are sample steps to choose or replace with app-specific steps, if any.
+> [!IMPORTANT]
+> After using this repository template for your app:
+>
+> 1. Choose or replace all the step 2's with step(s) specific to your app, if any.
+> 2. Remove this notice.
 
 For a website using **TACC/Core-CMS**:
 
@@ -50,7 +54,11 @@ For a **Django CMS** plugin:
 
 ## Usage
 
-> This section is sample usage steps that should be replaced with app-specific steps, or be removed.
+> [!IMPORTANT]
+> After using this repository template for your app:
+>
+> 1. Replace the steps below with step(s) specific to your app, if any.
+> 2. Remove this notice.
 
 For a website using **TACC/Core-CMS**:
 
@@ -66,6 +74,10 @@ For a **Django CMS** plugin:
 
 ## Features
 
-> This section should describe the feature of the app, or be removed.
+> [!IMPORTANT]
+> After using this repository template for your app:
+>
+> 1. Describe the feature(s) of the app, or remove this section.
+> 2. Remove this notice.
 
 …
