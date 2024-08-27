@@ -23,7 +23,7 @@ This app [provides something].
 > [!IMPORTANT]
 > After using this repository template for your app:
 >
-> 1. Choose or replace all the step 2's with step(s) specific to your app, if any.
+> 1. Choose or replace all the step 2's with step(s) specific to your app.
 > 2. Remove this notice.
 
 For a website using **TACC/Core-CMS**:
@@ -57,7 +57,7 @@ For a **Django CMS** plugin:
 > [!IMPORTANT]
 > After using this repository template for your app:
 >
-> 1. Replace the steps below with step(s) specific to your app, if any.
+> 1. Replace the steps below with step(s) specific to your app.
 > 2. Remove this notice.
 
 For a website using **TACC/Core-CMS**:
