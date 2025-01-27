@@ -12,13 +12,13 @@ This app [provides something].
 > [!IMPORTANT]
 > After using this repository template for your app:
 >
-> 1. Follow [(wiki) Development Quick Start](https://github.com/TACC/Core-CMS-App/wiki/Development-Quick-Start).
+> 1. Follow [(wiki) Development Quick Start](https://github.com/TACC/Django-App/wiki/Development-Quick-Start).
 > 2. Remove this notice.
 
 
 ## Quick Start
 
-1. Follow [(wiki) Usage Quick Start](https://github.com/TACC/Core-CMS-App/wiki/Usage-Quick-Start).
+1. Follow [(wiki) Usage Quick Start](https://github.com/TACC/Django-App/wiki/Usage-Quick-Start).
 
 > [!IMPORTANT]
 > After using this repository template for your app:
